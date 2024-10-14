@@ -25,10 +25,11 @@ markup:
 Menus:
   main:
     - identifier: AP
-      name: AP/ Stages
+      name: AP
       title: AP
       url: /AP
       weight: 1
+  
     
     #Dropdown menu
     # - identifier: dropdown
@@ -167,8 +168,21 @@ params:
   # Experience
   experience:
     enable: true
-    title: "Nom d'usage"
+    title: "Experience Professionnelle"
     items:
+      - job: "Stage Technicien Informatique"
+        company: "ACPEI"
+        companyUrl: "https://acpei.pro/"
+        date: "Mai 2024 - Juin 2024"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          url: "https://acpei.pro/"
+        content: |
+         J'ai effectué mon stage de premiere année au sein l'association chalonnaise de parents et amis de personnes deficientes intellectuelles et/ou autistes (ACPEI). J'ai fait plusieurs interventions dans cette association pour les ulisateurs à savoir: installation windows sur pc,brassage baie, migration de base de donnée pour passer en mode saas, installation téléphone, mise en place imprimante,adressage ip, joinction des postes dans le domaine, intervention pour la gestion de réseau sans fil, interventions pour les utulisation à distance comme sur poste. 
+
+   
       - job: "formateur"
         company: "KFC"
         companyUrl: "https://example.com"
@@ -177,7 +191,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://www.kfc.fr/nos-restaurants/kfc-avignon-sorgues"
-        content: "j'ai travaillé au KFC le pontet, avignon.j'ai echelonné au grade de formateur (formation des stews, gestion de la caisse,faire le planning ) "
+        content: "j'ai travaillé au KFC le pontet, avignon. J'ai échelonné au grade de formateur (formation des stews, gestion de la caisse,faire le planning ) "
 
       - job: "Intérimaire"
         company: "Sojufel "
@@ -192,7 +206,7 @@ params:
         content: |
           j'ai été a sojufel de provence comme intérimaire. J'avais comme mission de mettre les fruit dans les machines pour sa transformation en jus pure. Apres la transformation, gestion des commandes (préparateur de commande ) pour la livraison.
       - job: "Responsable pole logistique"
-        company: "BDE, ISM"
+        company: "BDE ISM"
         companyUrl: "https://example.com"
         date: "Jan 2020 - Aug 2020"
         info:
@@ -201,18 +215,18 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-         Au sein de luniversité on a eu pas mal dévenement pour les étudiant. etant donné qu'on a gagné le bureau des étudiant, j'etait le responsable du pole logistique pour la couverture des événements .
+         Au sein de l'université on a eu pas mal d'évenement pour les étudiants. Etant donné qu'on a gagné le bureau des étudiants, j'était le responsable du pole logistique pour la couverture des événements .
 
       - job: "Assistant gérant"
-        company: "D'lyse Service"
+        company: "D lyse Service"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-         service de transaction au senegal, 
-         effectuer des transactions vers les opératuers, saisir des documents, Impression 
+         service de transaction au sénégal, 
+         effectuer des transactions vers les opératuers, saisir des documents, impression 
 
   # Education
   education:
@@ -338,7 +352,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
-      linkedin: https://linkedin.com
+      linkedin: www.linkedin.com/in/aliou-seck-25b5b81ab
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
