@@ -286,11 +286,15 @@ params:
     title: "Certifications"
     items:
       
+      - title: Anssi
+        content: Certification anssi
+        url: "https://netacad.com"
+        image: /images/anssi.png
+        
       - title: Cisco
         content: Certification Cisco CNNA
         url: "https://netacad.com"
         image: /images/cisco.png
-     
   # projects
   projects:
     enable: false
