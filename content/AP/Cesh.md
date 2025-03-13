@@ -7,7 +7,7 @@ author: "Aliou"
 tags:
   - AP
   
-image: /images/Ces.png
+image: /images/AP/Ces.png
 description: ""
 toc:
 ---

@@ -2,12 +2,12 @@
 title: "AP02 SIO2:  Infrastructure Haute Disponibilité"
 date: 2025-02-25T19:53:33+05:30
 draft: false
-author: "Valentin"
+author: "Aliou"
 tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/Haproxy.png
+image: /images/AP/haproxy.jpeg
 description: ""
 toc: 
 Weight: 9

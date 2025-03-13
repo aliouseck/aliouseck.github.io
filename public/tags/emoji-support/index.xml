@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emoji Support on Hugo Profile</title>
+    <link>http://localhost:1313/tags/emoji-support/</link>
+    <description>Recent content in Emoji Support on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2023 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP 04 SIO1 : Dessiner un schéma réseau et mettre en service un site Web </title>
+      <link>http://localhost:1313/ap/schema/</link>
+      <pubDate>Wed, 18 Oct 2023 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/ap/schema/</guid>
+      <description>&lt;p&gt;La mission était dessiner un schéma réseau et mettre en service un site Web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-contexte&#34;&gt;I. Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

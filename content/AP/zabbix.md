@@ -1,33 +1,33 @@
 ---
-title: "AP02 SIO2:  Infrastructure Haute Disponibilité"
-date: 2025-02-25T19:53:33+05:30
+title: "AP 02 SIO2: Supervision réseau avec Zabbix"
+date: 2024-01-23T19:53:33+05:30
 draft: false
-author: "Valentin"
+author: "Aliou"
 tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/Haproxy.png
+image: /images/AP/zabbix.png
 description: ""
 toc: 
-Weight: 9
+Weight: 8
 ---
 
-## I - Contexte
+## I. Contexte de travail
 
-L’entreprise CUB, comme toute entreprise moderne, repose de plus en plus sur des infrastructures informatiques pour ses opérations quotidiennes. Les interruptions de service ou les pannes peuvent avoir des conséquences graves sur la productivité, la satisfaction des clients et la réputation de l’entreprise.
+L’entreprise CUB possède de nombreuses machines virtuelles (les serveurs DNS dans les différentes zones, le serveur Web, le pare-feu) ainsi que des équipements réseaux (switchs CISCO). il est important pour la DSI d’avoir un tableau de bord permettant de voir en temps réel l’état des machines et des équipements réseaux
 
-## II - Mission 1
-## Les besoins
+## II. Les besoins 
 
-Votre agence doit pouvoir faire face à une panne du serveur Active Directory car c’est un élément crucial dans votre infrastructure. Vous mettrez donc en place une redondance de votre controleur de domaine Active Directory.
-## III - Mission 2 :
-## Les besoins
+Il vous est demandé de mettre en place une solution de supervision du réseau (Switchs Cisco) et des machines virtuelles.
 
-- L’entreprise a besoin que vous mettiez en production ce site dans votre agence. Il est également impératif que ce site soit disponible quoi qu’il arrive et c’est pourquoi vous devrez mettre en place un système de haute disponibilité en insttallant ce site sur 2 conteneurs différents. Vous utiliserez également HAProxy sur votre pfsense pour garantir cette haute disponibilité et une répartition de charge entre les 2 conteneurs qui font tourner ce site.
-- Le site doit pouvoir supporter une tolérance de panne. Donc vous devez faire une répartition de charge avec un reverse Proxy et utiliser un outil d’équilibrage de charge comme Docker Swarm et Kubernetes pour vos conteneurs Docker.
+- La machine doit être intégré dans la bonne zone du lan de votre agence.
+- La machine doit être accessible depuis son nom DNS : zabbix.lan.agence.cub.org
+- Zabbix doit être installé en français.
+- La machine doit utiliser le résolveur du lan comme serveur DNS.
+- On doit avoir un tableau de bord qui permettent de voir l’état de tous les systèmes en temps réel.
+- On doit recevoir les alertes sur Discord.
 
-## IIII - Mission 3 :
-## Les besoins
+## III. Procédure 
 
-Votre responsable vous demande de mettre en place une solution d’orchestration plus avancée. Vous devez donc remplacer votre stack Docker Swarm par Kubernetes. Sous Ubuntu et ses versions dérivés, il existe l’application microk8s qui permet d’installer Kubernetes de manière très simplifiée.
+Vous pouvez trouver la procédure au lien suivant: [Procédure Sécurisation d'un Windows Server KURTZ Valentin](/docs/AP2.docx)
