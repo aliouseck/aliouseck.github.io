@@ -12,7 +12,9 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 30
+pagination:
+  pagerSize: 30
+
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -30,7 +32,12 @@ Menus:
       url: /AP
       weight: 1
   
-    
+    - identifier: Stages
+      name: Stages
+      title: Stages
+      url: /Stages
+      weight: 2
+  
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -123,7 +130,7 @@ params:
     intro: "Bonjour, je m'appelle"
     title: "ALIOU"
     subtitle: "Je suis étudiant en BTS SIO option SISR"
-    content: "Passionné de l'informatique, je suis interessé par tout ce qui est réseau informatique.En des termes plus explicite, la maintenace informatque. Aussi j'aime bien le developpement meme si ça n'a pas été mon option."
+    content: "Passionné de l'informatique, je suis interessé par tout ce qui est réseau informatique. En des termes plus explicite, la maintenace informatque.     Aussi j'aime bien le developpement meme si ça n'a pas été mon option."
     image: /images/image.png
     bottomImage:
       enable: true
@@ -150,7 +157,7 @@ params:
     title: "Compétences"
     image: "/images/image.png"
     content: |-
-      Je suis étudiant en BTS SIO option SISR au lycée Bouchardon, Chaumont. Je suis en formation et mon but est d'avoir beaucoup de compétences afin de devenir un trés bon administrateur réseau, voir même un ingénieur en informatique. Actuellement, j'ai acquis quelques notions en réseaux. 
+      Je suis étudiant en BTS SIO option SISR au lycée Edmé Bouchardon,Chaumont. Je suis en formation et mon but est d'avoir beaucoup de compétences afin de devenir un trés bon administrateur réseau, voir même un ingénieur en informatique. Actuellement, j'ai acquis quelques notions en réseaux. 
       
       
      
@@ -158,12 +165,15 @@ params:
       enable: true
       title: "Les technologies acquises :"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Réseau/Système"
+        - "Cybersécurité"
+        - "Windows, Linux,SQL"
+        - "VirtualBox,Proxmox"
+        - "DNS,DHCP,VLAN,IP"
+        - "GLPI,Zabbix"
+        - "HTML,PHP,CSS, C#"
+        - "Cisco PacketTracer"
+        
 
   # Experience
   experience:
