@@ -1,5 +1,5 @@
 ---
-title: "Création d'une interface en C#"
+title: "Stage CNAC"
 date: 2025-01-06T23:29:21+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
