@@ -37,7 +37,13 @@ Menus:
       title: Stages
       url: /Stages
       weight: 2
-  
+      
+    - identifier: Veille
+      name: Veille
+      title: Veille
+      url: /Veille
+      weight: 3 
+
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -130,7 +136,7 @@ params:
     intro: "Bonjour, je m'appelle"
     title: "ALIOU"
     subtitle: "Je suis étudiant en BTS SIO option SISR"
-    content: "Passionné de l'informatique, je suis interessé par tout ce qui est réseau informatique. En des termes plus explicite, la maintenace informatque.     Aussi j'aime bien le developpement meme si ça n'a pas été mon option."
+    content: "Passionné de l'informatique, je suis interessé par tout ce qui est réseau informatique. En des termes plus explicite, la maintenace informatque. Aussi je suis trés intéréssé par la cybersécurité.D'ailleurs je pense me spécilisé dans ce domaine plus tard."
     image: /images/image.png
     bottomImage:
       enable: true
@@ -192,6 +198,15 @@ params:
         content: |
          J'ai effectué mon stage de premiere année au sein l'association chalonnaise de parents et amis de personnes deficientes intellectuelles et/ou autistes (ACPEI). J'ai fait plusieurs interventions dans cette association pour les ulisateurs à savoir: installation windows sur pc,brassage baie, migration de base de donnée pour passer en mode saas, installation téléphone, mise en place imprimante,adressage ip, joinction des postes dans le domaine, intervention pour la gestion de réseau sans fil, interventions pour les utulisation à distance comme sur poste. 
 
+      - job: "Stagiaire"
+        company: "CNAC"
+        companyUrl: "https://cnac.fr/fr"
+        date: "Jan 2025 - fevrier 2025"
+        featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://cnac.fr/fr"
+        content: "C'était au National des Arts du Cirque que j'ai fait mon deuxieme stage durant 5 semaines. Les missions suivantes m'ont été confiées: déploiement windows server , mise en place de stragies de groupe par GPO (police, favoris dans le navigateur web), ajout mac dans l'AD, recherche MDM, mise en place de charte informatique pour les utilisateurs, formations utilisateurs, taches administratives. "	
    
       - job: "formateur"
         company: "KFC"
@@ -248,7 +263,7 @@ params:
         school:
           name: "Lycée Edme Bouchardon, Chaumont"
           url: "https://g.co/kgs/EgixGtW/"
-        date: "2023 - 2024"
+        date: "2023 - 2025"
         GPA: ""
         content: |-
       - title: "licence en Droit"

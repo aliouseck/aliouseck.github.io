@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veilles on Hugo Profile</title>
+    <link>http://localhost:1313/veille/</link>
+    <description>Recent content in Veilles on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/veille/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dossier de veille Technologique</title>
+      <link>http://localhost:1313/veille/stage-acpei/</link>
+      <pubDate>Sun, 26 May 2024 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/veille/stage-acpei/</guid>
+      <description>&lt;p&gt;Le titre de mon sujet de veille est: L&amp;rsquo;avenir de la cybersécurité.&lt;/p&gt;&#xA;&lt;p&gt;Ce sujet a été choisi en lien direct avec ma passion pour le domaine de la cybersécurité et mon ambition professionnelle de devenir responsable en cybersécurité. Face à l’évolution constante des menaces numériques, il est essentiel de rester informé des nouvelles tendances, des technologies émergentes et des stratégies de défense innovantes. Cette veille permet d’anticiper les défis futurs et de mieux comprendre les enjeux liés à la protection des systèmes d’information dans un monde de plus en plus connecté.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/ap/tabeausynthese/</loc>
     <lastmod>2025-01-10T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/veille/stage-acpei/</loc>
+    <lastmod>2024-05-26T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/stages/stage-acpei/</loc>
     <lastmod>2024-05-26T23:29:21+05:30</lastmod>
   </url><url>
@@ -17,13 +20,13 @@
     <loc>http://localhost:1313/ap/wds/</loc>
     <lastmod>2024-01-23T19:53:33+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ap/zabbix/</loc>
+    <lastmod>2024-01-23T19:53:33+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ap/storm/</loc>
     <lastmod>2024-01-23T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/ap/haproxy/</loc>
-    <lastmod>2025-02-25T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ap/zabbix/</loc>
     <lastmod>2025-02-25T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/ap/veeam/</loc>
@@ -58,6 +61,9 @@
   </url><url>
     <loc>http://localhost:1313/stages/</loc>
     <lastmod>2025-01-06T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/veille/</loc>
+    <lastmod>2024-05-26T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/ap/php/</loc>
     <lastmod>2024-01-24T19:53:33+05:30</lastmod>

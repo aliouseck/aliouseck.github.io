@@ -22,6 +22,4 @@ L'entreprise CUB possède de nombreux postes clients à mettre à jour et à dé
 
 L’entreprise va renouveler toutes ses machines clientes dans votre agence et souhaites en installer de nouvelles sous Windows 10 pro. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d’utiliser le service de déploiement Windows qui est intégré à Windows Server 2022.
 
-## III. Procédure 
 
-Voici le lien de ma procédure :

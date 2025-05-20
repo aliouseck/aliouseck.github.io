@@ -28,6 +28,3 @@ Le poste  Windows 10 Entreprise que vous allez déployer devront contenir les lo
 - Visual Studio Code
 - Adobe Acrobat Reader
 
-## III. Procédure 
-
-Voici le lien de ma procédure :

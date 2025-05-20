@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veille S on Hugo Profile</title>
+    <link>http://localhost:1313/veille-/</link>
+    <description>Recent content in Veille S on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/veille-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage ACPEI</title>
+      <link>http://localhost:1313/veille-/stage-acpei/</link>
+      <pubDate>Sun, 26 May 2024 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/veille-/stage-acpei/</guid>
+      <description>&lt;p&gt;Mon stage de premiere année s&amp;rsquo;est déroulé au sein d&amp;rsquo;une association dénomée ACPEI Association Chalonnnaise de Parents et Amis de Personnes Déficientes Intellectuelles&#xA;Ainsi, je parlerais des mes differentes taches que j&amp;rsquo;ai effectuées.&lt;/p&gt;&#xA;&lt;h3 id=&#34;baie-de-brassage&#34;&gt;Baie de Brassage&lt;/h3&gt;&#xA;&lt;p&gt;Comme premiere mission , j&amp;rsquo;ai eu a remettre de l&amp;rsquo;ordre le baie de brassage.Comme nous le savions bien, c&amp;rsquo;est pas tout le temps évident d&amp;rsquo;avoir une baie trés bien ordonnée. Avant mon intervention, il y&amp;rsquo;avait beaucoup de cables mealangé de partout; et meme d&amp;rsquo;autres qui n&amp;rsquo;avaient pas trop d&amp;rsquo;utilité car pas utilisées.&#xA;J&amp;rsquo;ai eu a recevoir de nouvelles cables RJ45 pour remplacer ceux qui étaient user, remettre les bons brancement afin d&amp;rsquo;avoir une baie bien propre et ordonné.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

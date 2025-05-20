@@ -30,4 +30,4 @@ Il vous est demandé de mettre en place une solution de supervision du réseau (
 
 ## III. Procédure 
 
-Vous pouvez trouver la procédure au lien suivant: [Procédure Sécurisation d'un Windows Server KURTZ Valentin](/docs/AP2.docx)
+Vous pouvez trouver la procédure au lien suivant: [Procédure Zabbix Aliou](/Docs/zabbix.pdf)

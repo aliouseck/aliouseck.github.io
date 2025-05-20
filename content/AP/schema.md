@@ -21,7 +21,7 @@ Née en décembre 2010, la société CUB est une entreprise spécialisée dans l
 
 L’entreprise est présente actuellement uniquement à Paris et à Reims et souhaite s’implanter dans de nombreuses autres villes : Lyon, Lille, Montpellier et Strasbourg.
 
-Voici le schéma réseau de l’entreprise actuellement (réalisé avec Microsoft Visio 2021) :
-<center><img src="/images/AP/schema1.png"></center> 
+Vous avez au dessus le schéma réseau de l’entreprise actuellement (réalisé avec Microsoft Visio 2021).
+
 
 

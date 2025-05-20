@@ -9,18 +9,18 @@
     <lastBuildDate>Mon, 06 Jan 2025 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/stages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Création d&#39;une interface en C#</title>
+      <title>Stage ACPEI</title>
       <link>http://localhost:1313/stages/stage-acpei/</link>
       <pubDate>Sun, 26 May 2024 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/stages/stage-acpei/</guid>
-      <description>&lt;h2 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mon stage de premiere année s&amp;rsquo;est déroulé au sein d&amp;rsquo;une association dénomée ACPEI Association Chalonnnaise de Parents et Amis de Personnes Déficientes Intellectuelles&#xA;Ainsi, je parlerais des mes differentes taches que j&amp;rsquo;ai effectuées.&lt;/p&gt;&#xA;&lt;h3 id=&#34;baie-de-brassage&#34;&gt;Baie de Brassage&lt;/h3&gt;&#xA;&lt;p&gt;Comme premiere mission , j&amp;rsquo;ai eu a remettre de l&amp;rsquo;ordre le baie de brassage.Comme nous le savions bien, c&amp;rsquo;est pas tout le temps évident d&amp;rsquo;avoir une baie trés bien ordonnée. Avant mon intervention, il y&amp;rsquo;avait beaucoup de cables mealangé de partout; et meme d&amp;rsquo;autres qui n&amp;rsquo;avaient pas trop d&amp;rsquo;utilité car pas utilisées.&#xA;J&amp;rsquo;ai eu a recevoir de nouvelles cables RJ45 pour remplacer ceux qui étaient user, remettre les bons brancement afin d&amp;rsquo;avoir une baie bien propre et ordonné.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stage CNAC</title>
       <link>http://localhost:1313/stages/stage-cnac/</link>
       <pubDate>Mon, 06 Jan 2025 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/stages/stage-cnac/</guid>
-      <description>&lt;h2 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;opportunité d&amp;rsquo;effectuecter mon stage de deuxieme année au Cnac Centre National des Arts du Cirque&lt;/p&gt;&#xA;&lt;h3 id=&#34;deploiement-windows-server&#34;&gt;Deploiement Windows Server&lt;/h3&gt;&#xA;&lt;p&gt;mettre de nouveau utilisateurs et créer leur mot de passe qui expire tous les 3 mois pour ganrantir la sécurité&lt;/p&gt;&#xA;&lt;h3 id=&#34;mise-en-place-dune-strategie-de-groupe-gpo&#34;&gt;Mise en place d&amp;rsquo;une strategie de groupe GPO&lt;/h3&gt;&#xA;&lt;p&gt;Les utilisateurs ont besoins d&amp;rsquo;applications qui sont indispensables pour leur travail. Ainsi j&amp;rsquo;ai mis en place une stratégie de groupe leur permettant d&amp;rsquo;avoir un accés directe de ces applications sur la barre de recherche de leur navigateur. Comme ca ils gagneront du temps et c&amp;rsquo;est plus pratique .&#xA;Sans oublié que le CNAC a une police qui lui est spécifique , j&amp;rsquo;ai aussi lis en place une stragie sur word.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
