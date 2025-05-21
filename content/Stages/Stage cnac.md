@@ -29,6 +29,6 @@ Sans oublié que le CNAC a une police qui lui est spécifique , j'ai aussi lis e
 Des service comme la com utilise des macbook 
 étant different des systemes windows , on devait trouver une solution pour joindre les mac au domaine .comme ca les utilisateurs auront des sessions comme les autres qui utulisent windows comme systeme d'exploitation  
 
-### Foramtion utilisateurs
+### Formation utilisateurs
 des profs provenant de partout n'ont jamais utilisé certaines applications à savoir pour la demande de leurs congés, les notes pour les étudiants etc..
 
